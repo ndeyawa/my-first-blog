@@ -25,7 +25,7 @@ TIME_ZONE ='Africa/Banjul'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','<ndey@ndey-HP-Pavilion-g4-Notebook-PC>.pythonanywhere.com']
+ALLOWED_HOSTS = ['ndeyawa.pythonanywhere.com']
 
 
 # Application definition
